@@ -1,0 +1,27 @@
+body {
+	font-family: "Open+Sans", sans-serif;
+	background-color: #F6F4F3;
+}
+
+
+.dropdown-item{
+  font-size: small;
+}
+
+.btn-secondary{
+  font-size: smaller;
+  background-color: #D9D9D9 !important;
+  border-color: #D9D9D9 !important;
+  color: black;
+}
+
+text{
+  color: grey;
+  text-decoration: none !important;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
